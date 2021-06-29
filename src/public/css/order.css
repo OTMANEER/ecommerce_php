@@ -1,0 +1,42 @@
+
+table{
+    width :50%;
+    margin-top: 100px;
+}
+
+td:first-child{
+    width : 60%;
+    text-align: center;
+}
+tr,td {
+
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    padding: 10px;
+    border : 1px solid black;
+}
+
+.bg-dark {
+    background-color: #16ca40!important;
+  }
+
+.mybtn{
+    float: right;
+}
+
+#infoTable{
+    position: absolute;
+    right: 50px;
+    top : 200px;
+    width : 30%;
+} 
+
+h3{
+    text-align: center;
+}
+a.btn-special{
+    margin-right: 20%;
+    color: white;
+  
+  }

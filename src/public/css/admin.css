@@ -1,0 +1,26 @@
+#nav{
+    width: 20%;
+    margin-top: 10px; 
+    margin-left: auto;
+    margin-right:auto;
+}
+
+#container{
+    width : 20%;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#cmdBtn{
+    display : none;
+}  
+
+  .bg-dark {
+    background-color: #16ca40!important;
+  }
+  a.btn-special{
+    margin-right: 20%;
+    color: white;
+  
+  }
